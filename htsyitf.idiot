@@ -30,7 +30,7 @@ Prolog
 You want to tell the program to shoot you in the foot. If you do, the program will figure out how to shoot you in the foot. You try to tell the program to shoot you in the foot, but the bullet fails and backtracks to your face.
 
 Haskell
-You spend 4 hours figuring out how to purely functionaly shoot yourself in the foot, then you write 2 lines of code, compile it once and blow your hole leg off.
+You spend 4 hours figuring out how to purely functionaly shoot yourself in the foot, then you write 2 lines of code, compile it once and blow your whole leg off.
 or
 Shooting yourself in the foot is considered a side effect so you try to use monads to handle the bullet's I/O, but find out you're not smart enough.
 
