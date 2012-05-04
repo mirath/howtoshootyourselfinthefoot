@@ -1,0 +1,49 @@
+==Languages that I have used==
+
+C
+You create the pointers foot* your_foot, bullet* a_bullet and call the function gunshot* gun(*your_foot,*a_bullet) and try to compile the program, but you forget to include shootYourself.h, you include it and try to compile the program, but you find that this library is not in installed natively in your OS, so you go to originfabricate.com/shootYourself and download the source, you try to compile the library but you find that other library (giveMeAFreakingBreak.so) is at version 1.1.03 and shootYourself needs version 1.1.04, so you download this version from ZebraIsNotUnix.org/giveMeAFreakingBreakRules, compile it and install it, then you compile shootYourself but when you try to install it you find that you don't have enough permissions (if your on a Unix-Like OS), so you install shootYourself as root and try to compile the program, but you find that the shootYourself header file and binary do not get installed in directories searched by your compiler, so you pass flags to the compiler to include those directories and compile the program, you run it and get a Segmentation Fault, 2 hours later you realize that you didn't initilized the your_foot and a_bullet pointers, so you write a secure wrapper for the SO memory allocation function, initalize the pointers, recompile and run the program...you pulverize your whole leg faster that anybody had ever or will ever be able to.
+
+Java
+You locate the Gun class, but discover that the Bullet class is abstract, so you extend it and write the missing part of the implementation. Then you implement the ShootAble interface for your foot, and recompile the Foot class. The interface lets the bullet call the doDamage method on the Foot, so the Foot can damage itself in the most effective way. Now you run the program, and call the doShoot method on the instance of the Gun class. First the Gun creates an instance of Bullet, which calls the doFire method on the Gun. The Gun calls the hit(Bullet) method on the Foot, and the instance of Bullet is passed to the Foot. But this causes an IllegalHitByBullet exception to be thrown, and you die. (However, you can accomplish this ANYWHERE in the world)
+
+C++
+You accidentally create a dozen clones of yourself and shoot them all in the foot. Providing emergency medical assistance is impossible since you can’t tell which are bitwise copies and which are just pointing at others and saying, “That’s me, over there.”
+
+GaCeLa
+After realizing that you can't actually accomplish anything in this language, you come to clearly comprehend the basic principels of programming, you then can go shoot yourself in the foot more effectively in other languages.
+
+Modula-2
+After realizing that you can't actually accomplish anything in this language, you shoot yourself in the head.
+
+Perl
+You shoot yourself in the foot, but nobody can understand how you did it. Six months later, neither can you.
+
+Assembly Language
+You try to shoot yourself in the foot only to discover you must first reinvent the gun, the bullet, the trigger, and your foot.
+or 
+The bullet travels to your foot instantly and utterly obliterates you from this realm of existence, but it took you three months to load the round and aim the gun.
+
+CSS
+You shoot your right foot with one hand, then switch hands to shoot your left foot but you realize that the gun has turned into a banana.
+
+Prolog
+You want to tell the program to shoot you in the foot. If you do, the program will figure out how to shoot you in the foot. You try to tell the program to shoot you in the foot, but the bullet fails and backtracks to your face.
+
+Haskell
+You spend 4 hours figuring out how to purely functionaly shoot yourself in the foot, then you write 2 lines of code, compile it once and blow your hole leg off.
+or
+Shooting yourself in the foot is considered a side effect so you try to use monads to handle the bullet's I/O, but find out you're not smart enough.
+
+==Languages that I haven't used, but I still find these hilarious==
+Ada
+If you are dumb enough to actually use this language, the United States Department of Defense will kidnap you, stand you up in front of a firing squad and tell the soldiers, "Shoot at the feet." 
+
+JavaScript
+You've perfected a robust, rich user experience for shooting yourself in the foot. You then find that bullets are disabled on your gun.
+
+Ruby on Rails: You want to shoot yourself in the foot, but the convention is to shoot yourself in the head.
+
+.Net
+Microsoft hands you a gun to shoot yourself in the foot.
+or
+Microsoft hands you a gun and swears blind it’s a toenail clipper. Someone throws a fucking chair at you.
